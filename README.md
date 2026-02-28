@@ -6,4 +6,4 @@ A repository to learn how to use Git.
 How to git good at version control.
 
 ## Section 2
-Making changes directly on the remote.
+Making changes directly on the remote. 
